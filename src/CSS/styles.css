@@ -1,0 +1,64 @@
+  .main-btn {
+    background-color: rgb(68, 103, 252, 71%) !important;
+    border-radius: 20px !important;
+    padding: 5px 40px !important;
+  }
+  
+  /* FOOTER */
+  #footer-div {
+    height: 100px;
+    background-color: rgb(68, 103, 252, 71%);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* HOME PAGE */
+  .page-header {
+    font-weight: bolder;
+  }
+  .cardImg {
+    width: 100%;
+  }
+
+  /* SIGNUP PAGE */
+  .signup-details {
+    width: 500px;
+    background-color: rgba(68, 103, 252, 0.18);
+    padding: 20px;
+    border-radius: 20px;
+    margin: auto;
+    display: block;
+  }
+  .sign-up-details {
+    background-color: rgb(68, 103, 252, 71%);
+    color: white;
+    border-radius: 5px;
+  }
+
+  /* CONTACT PAGE */
+#contact-form {
+  max-width: 400px;
+  margin: auto;
+}
+.contact-input {
+  border: none !important;
+  border-bottom: 1px solid rgb(68, 103, 252) !important;
+  border-radius: 0px !important;
+}
+.contact-message {
+  border: 1px solid rgb(68, 103, 252) !important;
+  border-radius: 0px !important;
+}
+#contact-drop-line {
+  border: 1px solid rgb(68, 103, 252);
+  width: fit-content;
+  margin: auto;
+  transform: rotate(.95turn);
+}
+/* LOGIN PAGE */
+#login-img {
+  max-width: 350px;
+  width: 100%;
+}
